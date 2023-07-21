@@ -1,1 +1,3 @@
 # conda_shortcuts
+
+To add a link to the Anaconda Prompt, and Jupyter Notebook and Lab in the Windows right-click context menu, useful to launch them from within any folder, merge the registry keys [Anaconda_right_click.reg](https://bitbucket.org/andrebis/my_anaconda/src/master/Anaconda_right_click.reg), [JupyterNotebook_right_click.reg](https://bitbucket.org/andrebis/my_anaconda/src/master/JupyterNotebook_right_click.reg) and [JupyterLab_right_click.reg](https://bitbucket.org/andrebis/my_anaconda/src/master/JupyterLab_right_click.reg), after editing the `<YOUR_USER>` value with your Windows user name.
